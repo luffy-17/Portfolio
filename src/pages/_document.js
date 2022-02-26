@@ -34,12 +34,9 @@ export default class MyDocument extends Document {
           <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
           <meta name="title" content="Laxmikant Nishad - Data Science Enthusiast" />
           <meta name="description" content="I am a 3rd-year Computer Science student💻. currently pursuing my bachelor's degree in Russia. 😀Data Science Enthusiast" />
-          <meta property="og:type" content="website" />
           <meta property="og:title" content="Laxmikant Nishad - Data Science Enthusiast" />
           <meta property="og:description" content="I am a 3rd-year Computer Science student💻. currently pursuing my bachelor's degree in Russia. 😀Data Science Enthusiast" />
-          <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:title" content="Laxmikant Nishad - Data Science Enthusiast" />
-          <meta property="twitter:description" content="I am a 3rd-year Computer Science student💻. currently pursuing my bachelor's degree in Russia. 😀Data Science Enthusiast" />
+      
           
         </Head>
         <body>
