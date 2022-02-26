@@ -1,37 +1,31 @@
 import { DiAndroid, DiTerminal } from "react-icons/di";
-import { SiJava, SiFirebase, SiGit } from "react-icons/si";
+import { SiJava, SiFirebase, SiGit,SiMongodb, SiTableau, SiMysql, SiTensorflow } from "react-icons/si";
 import { RiFlutterFill } from "react-icons/ri";
 
 export const Skills = [
   {
-    slug: "android",
-    Component: DiAndroid,
-    title: "Android",
-    Description: () => <>I work on ROMs, Kernels & Android Apps using Java.</>,
+    slug: "machine learning",
+    Component: SiTensorflow,
+    title: "Machine Learning",
+    Description: () => <>I work many project of Data Science.</>,
   },
   {
-    slug: "flutter",
-    Component: RiFlutterFill,
-    title: "Flutter",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    slug: "sql",
+    Component: SiMysql,
+    title: "SQL",
+    Description: () => <>I know MySQL. I had practiced it in past. </>,
   },
   {
-    slug: "java",
-    Component: SiJava,
-    title: "Java",
-    Description: () => <>I can code in Java. But I mainly use it for Android app development.</>,
+    slug: "dataanalytics",
+    Component: SiTableau,
+    title: "Data Analytics",
+    Description: () => <>I had done some project on customer analytics</>,
   },
   {
-    slug: "terminal",
-    Component: DiTerminal,
-    title: "Scripting",
-    Description: () => <>I have written dozens of Shell scripts for various purposes.</>,
-  },
-  {
-    slug: "firebase",
-    Component: SiFirebase,
-    title: "Firebase",
-    Description: () => <>I have used Firebase for auth, database & analytics in my apps.</>,
+    slug: "mongodb",
+    Component: SiMongodb,
+    title: "MongoDB",
+    Description: () => <>I have used MongoDB database and in my apps.</>,
   },
   {
     slug: "git",

@@ -12,12 +12,9 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          Hey there, This is Vipul Jha aka lordarcadius. I am an Android & Flutter developer who also works on ROMs, Kernels, & Scripts.
+          Hey there, I am a 3rd-year Computer Science student💻, currently pursuing my bachelor's degree in Russia 😀 Data Science Enthusiast.
         </SectionText>
-        <Button onClick={(e) => {
-          e.preventDefault();
-          window.location.href = '/files/resume.pdf';
-        }}>My Resume</Button>
+
       </LeftSection>
     </Section>
   </>
