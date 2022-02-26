@@ -33,7 +33,7 @@ export const projects = [
     image: '/images/urvish.png',
     tags: ['Python', 'OpenCV', 'MediaPipe'],
     source: 'https://github.com/Urvish02/AI-Body-Language-Decoder-with-MediaPipe',
-    visit: 'https://drive.google.com/file/d/1e65uOviiiBiiByX0cvNuzzLYK0ihhlsq/view?usp=sharing',
+    visit: 'https://drive.google.com/file/d/1FT2nPqY6PfEFI3t0tTOVcIwGMC6yGjP0/view?usp=sharing',
     id: 3,
   },
 ];
