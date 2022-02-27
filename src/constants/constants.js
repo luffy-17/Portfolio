@@ -28,7 +28,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Urvish's Emotion with opencv",
+    title: "Urvish's Emotion detect with opencv",
     description: "Body Language Decoder is AI Model which will predict body language based on your pose and face expression",
     image: '/images/urvish.png',
     tags: ['Python', 'OpenCV', 'MediaPipe'],
