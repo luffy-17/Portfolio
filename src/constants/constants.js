@@ -13,7 +13,7 @@ export const projects = [
     description: "Web Apps Created using Streamlit Data scraped from coinmarketcap and used LSTM to predict the future Prices of BNB coin.",
     image: '/images/screenshot.png',
     tags: ['Python', 'LSTM', 'Pyplot'],
-    source: '#',
+    source: 'https://github.com/luffy-17/StreamlitApps',
     visit: 'https://drive.google.com/file/d/12DP16SEjdMLmu3uVnJ6UD4SZvyyZ_FMH/view?usp=sharing',
     id: 1,
   },
